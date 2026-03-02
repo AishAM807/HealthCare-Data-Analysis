@@ -18,3 +18,7 @@ This project examines healthcare data to uncover patterns in patient admissions,
 - Step 3 : Executed SQL queries to create and validate database tables based on the defined schema, as shown below.
 
   <img width="384" height="550" alt="Image" src="https://github.com/user-attachments/assets/b9f12dbd-67ed-4480-8048-ceed736271e1" />
+
+ - Step 4 : Used the UNION ALL operation to combine data from multiple tables into a single unified dataset.
+
+ 
