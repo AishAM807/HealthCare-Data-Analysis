@@ -40,18 +40,15 @@ This project examines healthcare data to uncover patterns in patient admissions,
 <img width="887" height="534" alt="Image" src="https://github.com/user-attachments/assets/005f9a56-2f10-4574-af44-db17e713e8e7" />
 
 
-
-
-
-
-
-
-
-
-
-
+- Step 8 : Modified the temporary hash table structure by adding new columns to support additional data attributes and calculated fields.
 
 
 
 <img width="367" height="207" alt="Image" src="https://github.com/user-attachments/assets/d61d6a95-713e-446b-a53c-44f8fb760acb" />
+
+
+
+- Step 9 : Executed SQL queries to compute essential statistical measures, including minimum, maximum, median, standard deviation, and distinct count of salary values.
+
+
 
