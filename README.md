@@ -50,5 +50,6 @@ This project examines healthcare data to uncover patterns in patient admissions,
 
 - Step 9 : Executed SQL queries to compute essential statistical measures, including minimum, maximum, median, standard deviation, and distinct count of salary values.
 
+<img width="669" height="552" alt="Image" src="https://github.com/user-attachments/assets/b4fb1789-1097-4080-af67-8201cca68414" />
 
 
