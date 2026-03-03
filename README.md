@@ -27,7 +27,11 @@ This project examines healthcare data to uncover patterns in patient admissions,
 
 - Step 5 : Created a new database named Data_Profiling and successfully loaded employee data using SQL queries as shown below.
 
-- Step 6 : Created and executed a temporary hash table (#Table1) to store intermediate results during data processing.
+- Step 6 : Utilized the INFORMATION_SCHEMA views to examine column-level metadata, including data types, constraints, and structure.
+
+  
+
+- Step 7 : Created and executed a temporary hash table (#Table1) to store intermediate results during data processing.
 
 <img width="887" height="534" alt="Image" src="https://github.com/user-attachments/assets/005f9a56-2f10-4574-af44-db17e713e8e7" />
 
