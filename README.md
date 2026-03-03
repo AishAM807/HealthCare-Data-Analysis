@@ -25,5 +25,9 @@ This project examines healthcare data to uncover patterns in patient admissions,
 
  <img width="491" height="547" alt="Image" src="https://github.com/user-attachments/assets/8a3318d7-1e9b-4288-860d-2dec627722c3" />
 
- - Step 5 : Created a new database named Data_Profiling and successfully loaded employee data using SQL queries as shown below. 
+- Step 5 : Created a new database named Data_Profiling and successfully loaded employee data using SQL queries as shown below.
+
+- Step 6 : Created and executed a temporary hash table (#Table1) to store intermediate results during data processing.
+
+<img width="887" height="534" alt="Image" src="https://github.com/user-attachments/assets/005f9a56-2f10-4574-af44-db17e713e8e7" />
 
