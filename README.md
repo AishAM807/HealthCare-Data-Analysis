@@ -29,9 +29,29 @@ This project examines healthcare data to uncover patterns in patient admissions,
 
 - Step 6 : Utilized the INFORMATION_SCHEMA views to examine column-level metadata, including data types, constraints, and structure.
 
-  
 
-- Step 7 : Created and executed a temporary hash table (#Table1) to store intermediate results during data processing.
+
+<img width="1103" height="362" alt="Image" src="https://github.com/user-attachments/assets/95a17eda-0d12-482a-a331-f9e89d6f64bb" />
+
+  
+  - Step 7 : Created and executed a temporary hash table (#Table1) to store intermediate results during data processing.
+
 
 <img width="887" height="534" alt="Image" src="https://github.com/user-attachments/assets/005f9a56-2f10-4574-af44-db17e713e8e7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="367" height="207" alt="Image" src="https://github.com/user-attachments/assets/d61d6a95-713e-446b-a53c-44f8fb760acb" />
 
