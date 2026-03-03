@@ -17,6 +17,7 @@ This project examines healthcare data to uncover patterns in patient admissions,
 
 - Step 3 : Executed SQL queries to create and validate database tables based on the defined schema, as shown below.
 
+ 
  <img width="384" height="550" alt="Image" src="https://github.com/user-attachments/assets/b9f12dbd-67ed-4480-8048-ceed736271e1" />
 
 
@@ -24,6 +25,7 @@ This project examines healthcare data to uncover patterns in patient admissions,
 
 
  <img width="491" height="547" alt="Image" src="https://github.com/user-attachments/assets/8a3318d7-1e9b-4288-860d-2dec627722c3" />
+
 
 - Step 5 : Created a new database named Data_Profiling and successfully loaded employee data using SQL queries as shown below.
 
@@ -33,8 +35,8 @@ This project examines healthcare data to uncover patterns in patient admissions,
 
 <img width="1103" height="362" alt="Image" src="https://github.com/user-attachments/assets/95a17eda-0d12-482a-a331-f9e89d6f64bb" />
 
-  
-  - Step 7 : Created and executed a temporary hash table (#Table1) to store intermediate results during data processing.
+
+ - Step 7 : Created and executed a temporary hash table (#Table1) to store intermediate results during data processing.
 
 
 <img width="887" height="534" alt="Image" src="https://github.com/user-attachments/assets/005f9a56-2f10-4574-af44-db17e713e8e7" />
@@ -50,6 +52,23 @@ This project examines healthcare data to uncover patterns in patient admissions,
 
 - Step 9 : Executed SQL queries to compute essential statistical measures, including minimum, maximum, median, standard deviation, and distinct count of salary values.
 
+
 <img width="669" height="552" alt="Image" src="https://github.com/user-attachments/assets/b4fb1789-1097-4080-af67-8201cca68414" />
 
 
+- Step 10 : To calculate the median of the Salary column, I created temporary table #20 to select the Salary column, count the total number of rows, and arrange the records in ascending order. I also generated a column named row_num to assign sequential row numbers for accurate median calculation.
+
+
+<img width="978" height="552" alt="Image" src="https://github.com/user-attachments/assets/99c828c3-9c92-430f-8cd5-e6e128f28971" />
+  
+
+- Step 11 : To determine whether the total number of records was odd or even, I declared three variables and applied the necessary conditional logic.
+
+
+<img width="771" height="527" alt="Image" src="https://github.com/user-attachments/assets/c4379313-3f9b-45e3-95dc-b6c43dbd0553" />
+
+
+- Step 12 : I also calculated the mode for the Department column to identify the most frequently occurring value.
+
+
+<img width="751" height="557" alt="Image" src="https://github.com/user-attachments/assets/f21db38b-0724-4ff8-abe9-0fe1def71a34" />
