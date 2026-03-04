@@ -72,3 +72,22 @@ This project examines healthcare data to uncover patterns in patient admissions,
 
 
 <img width="751" height="557" alt="Image" src="https://github.com/user-attachments/assets/f21db38b-0724-4ff8-abe9-0fe1def71a34" />
+
+
+- Step 13 : To update the #1 temporary table, I implemented dynamic SQL by declaring the required variables, as demonstrated in the script below.
+
+
+<img width="446" height="144" alt="Image" src="https://github.com/user-attachments/assets/fa35a8a5-8bb1-4d92-9a19-db6d5d74a289" />
+
+
+
+- Step 14 : Using a WHILE loop and conditional (IF) statements, I updated the column values, including Minimum, Maximum, Zero Value Count, Mean, Null Count, and Standard Deviation, as demonstrated below.
+
+
+<img width="1299" height="561" alt="Image" src="https://github.com/user-attachments/assets/183af1d1-dbe2-459c-8ea3-2b452d630616" />
+
+
+- Step 15 : The #1 temporary table reflects the updated values, as shown below.
+
+
+<img width="1071" height="232" alt="Image" src="https://github.com/user-attachments/assets/72e62c06-d17c-4d41-958c-f305d2bec2b0" />
