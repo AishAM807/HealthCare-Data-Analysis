@@ -95,3 +95,6 @@ This project examines healthcare data to uncover patterns in patient admissions,
 
 
 - Step 16 : Additionally, I implemented dynamic SQL to update the Distinct Count column. As shown below, the column values were successfully updated.
+
+
+<img width="1241" height="563" alt="Image" src="https://github.com/user-attachments/assets/2b9dae1a-917b-4043-b7aa-2baae6b468d2" />
