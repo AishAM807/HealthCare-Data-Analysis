@@ -84,7 +84,8 @@ This project examines healthcare data to uncover patterns in patient admissions,
 - Step 14 : Using a WHILE loop and conditional (IF) statements, I updated the column values, including Minimum, Maximum, Zero Value Count, Mean, Null Count, and Standard Deviation, as demonstrated below.
 
 
-<img width="1299" height="561" alt="Image" src="https://github.com/user-attachments/assets/183af1d1-dbe2-459c-8ea3-2b452d630616" />
+
+<img width="1210" height="566" alt="Image" src="https://github.com/user-attachments/assets/efd7e162-1b1a-477a-b3c8-999df9c6fa58" />
 
 
 - Step 15 : The #1 temporary table reflects the updated values, as shown below.
