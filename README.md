@@ -98,3 +98,6 @@ This project examines healthcare data to uncover patterns in patient admissions,
 
 
 <img width="1241" height="563" alt="Image" src="https://github.com/user-attachments/assets/2b9dae1a-917b-4043-b7aa-2baae6b468d2" />
+
+
+- Step 17 : Finally, I implemented the logic to calculate the Median and Mode values. The computed results are reflected in the table below.
