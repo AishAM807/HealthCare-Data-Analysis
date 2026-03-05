@@ -168,7 +168,7 @@ The Dynamic SQL logic was initially developed and tested using an employee datas
 
 <img width="319" height="497" alt="Image" src="https://github.com/user-attachments/assets/1452be94-a9cf-49cd-9c95-cd7a6718cf5b" />
 <img width="194" height="405" alt="Image" src="https://github.com/user-attachments/assets/53fe2aaa-3422-4968-976b-0b04500f132c" />
-
+<img width="205" height="489" alt="Image" src="https://github.com/user-attachments/assets/28e52ef5-6ca0-4618-a29d-2094110ece66" />
 
 
 
