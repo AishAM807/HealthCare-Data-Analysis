@@ -8,6 +8,8 @@
 
 This project examines healthcare data to uncover patterns in patient admissions, length of stay, readmissions, and treatment costs. The analysis focuses on transforming raw data into actionable insights that support operational efficiency, performance monitoring, and informed decision-making.
 
+### Important Note: 
+The Dynamic SQL logic was initially developed and tested using an employee dataset for demonstration purposes. The same logic will later be implemented on healthcare (clinical) data by replacing the employee dataset.
 
 ### Steps followed 
 
