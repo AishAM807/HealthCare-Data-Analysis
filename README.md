@@ -130,3 +130,8 @@ This project examines healthcare data to uncover patterns in patient admissions,
 
 
 <img width="1237" height="568" alt="Image" src="https://github.com/user-attachments/assets/65f368ea-9a10-4137-bf5b-9eec512a4a9a" />
+
+
+- Step 21 : An error occurred while processing the Zero Value column; however, after identifying and fixing the issue, the column was successfully updated.
+
+- Step 22 : Implemented separate logic for BIT data type columns by excluding MIN and MAX calculations and adding logic to compute Null Count, Distinct Count, Mode, and Zero Value metrics.
