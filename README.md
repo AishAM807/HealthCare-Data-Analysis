@@ -114,6 +114,13 @@ This project examines healthcare data to uncover patterns in patient admissions,
 
 - Step 18 : Implemented logic to handle Date-type columns by replacing NULL values with appropriate default values.
 
+
+<img width="1268" height="504" alt="Image" src="https://github.com/user-attachments/assets/09e8a146-01ce-4da1-82d9-96852b6bbe62" />
+
+
 - Step 19: Comparing this table with the previously mentioned table shows that the NULL values in the date column have been updated with the calculated metrics such as Minimum, Maximum, Distinct Count, Zero Value, and Null Count.
+
+
+<img width="1084" height="259" alt="Image" src="https://github.com/user-attachments/assets/114163b8-f34e-47a6-94b7-4fb84de91a27" />
 
 - Step 20 : Similar arrangements were implemented for Text data type columns using Dynamic SQL, where NULL values were successfully replaced with the corresponding calculated metrics.
