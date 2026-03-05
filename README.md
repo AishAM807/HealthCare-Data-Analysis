@@ -141,3 +141,12 @@ The Dynamic SQL logic was initially developed and tested using an employee datas
 
 <img width="1088" height="270" alt="Image" src="https://github.com/user-attachments/assets/3b9bc848-efb8-4dba-8f92-d40d4b0c9a2a" />
 
+
+- Step 23 : Created a sample table using SQL to analyze and understand the concept of column distribution.
+
+- Step 24 : Upon executing the SQL code, the resulting table structure and data can be observed as shown below.
+
+- Step 25 : Queried INFORMATION_SCHEMA to obtain detailed information about the table columns, and the resulting output is shown below.
+
+- Step 26 : After executing the Dynamic SQL code for column distribution, different columns along with their frequency counts can be observed in the small tables shown below.
+
