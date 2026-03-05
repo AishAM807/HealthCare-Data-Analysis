@@ -124,3 +124,9 @@ This project examines healthcare data to uncover patterns in patient admissions,
 <img width="1084" height="259" alt="Image" src="https://github.com/user-attachments/assets/114163b8-f34e-47a6-94b7-4fb84de91a27" />
 
 - Step 20 : Similar arrangements were implemented for Text data type columns using Dynamic SQL, where NULL values were successfully replaced with the corresponding calculated metrics.
+
+
+<img width="1136" height="264" alt="Image" src="https://github.com/user-attachments/assets/92766e03-a786-45a0-aae7-d0566a16bf16" />
+
+
+<img width="1237" height="568" alt="Image" src="https://github.com/user-attachments/assets/65f368ea-9a10-4137-bf5b-9eec512a4a9a" />
