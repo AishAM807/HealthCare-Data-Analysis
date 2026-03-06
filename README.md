@@ -187,7 +187,13 @@ The Dynamic SQL logic was initially developed and tested using an employee datas
 
 - Step 31 : Used a WHILE loop to generate data for each hospital. Additionally, the ABS (Absolute) function was applied to ensure that all generated values are in positive form.
 
-- Step 32 : Queried the top 10 records from the Clinical Data table to review the generated dataset, as shown below.
+- Step 32 : Used dynamic SQL to generate 2 million records per hospital, creating a large-scale dataset of 20 million records for analysis.
+
+
+
+- Step 33 : Queried the top 10 records from the Clinical Data table to review the generated dataset, as shown below.
+
+<img width="658" height="350" alt="Image" src="https://github.com/user-attachments/assets/114d4686-ddfc-4893-ab75-c1e32309947f" />
 
 
 
