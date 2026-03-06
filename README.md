@@ -195,6 +195,17 @@ The Dynamic SQL logic was initially developed and tested using an employee datas
 
 <img width="658" height="350" alt="Image" src="https://github.com/user-attachments/assets/114d4686-ddfc-4893-ab75-c1e32309947f" />
 
+- Step 34 : To perform data profiling, I reused the dynamic SQL script created for the employee dataset and modified it by replacing the employee dataset with the clinical dataset.
+
+
+
+- Step 35 : Executed a COUNT() aggregation query to verify the total number of records for each hospital after running the data generation process. The output confirms that the complete dataset was successfully created, as shown below.
+
+
+
+- Step 36 : Queried INFORMATION_SCHEMA.COLUMNS to examine the metadata and structure of all columns in the table.
+
+
 
 
 
