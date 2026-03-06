@@ -171,5 +171,16 @@ The Dynamic SQL logic was initially developed and tested using an employee datas
 <img width="205" height="489" alt="Image" src="https://github.com/user-attachments/assets/28e52ef5-6ca0-4618-a29d-2094110ece66" />
 
 
+- Step 27 : Created a new database called "Healthcare" for data analysis purposes.
+
+- Step 28 : Developed a SQL query to create a blank table containing the following columns: Hospital_ID, Admission_Date, Total_Admissions, Readmissions, Infections, Total_Deaths, and Average_Length_of_Patient_Stay.
+
+- Step 29 : Defined appropriate data types for each column to ensure proper data storage and integrity.
+
+- Step 30 : Declared several variables to check and validate the data types of the columns.
+
+- Step 31 : Used a WHILE loop to generate data for each hospital. Additionally, the ABS (Absolute) function was applied to ensure that all generated values are in positive form.
+
+
 
 
