@@ -189,7 +189,7 @@ The Dynamic SQL logic was initially developed and tested using an employee datas
 
 - Step 32 : Used dynamic SQL to generate 2 million records per hospital, creating a large-scale dataset of 20 million records for analysis.
 
-
+<img width="1213" height="566" alt="Image" src="https://github.com/user-attachments/assets/e5e2ecc3-9004-4cea-b3a1-e0b87161fcb5" />
 
 - Step 33 : Queried the top 10 records from the Clinical Data table to review the generated dataset, as shown below.
 
