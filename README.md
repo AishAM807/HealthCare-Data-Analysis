@@ -189,23 +189,33 @@ The Dynamic SQL logic was initially developed and tested using an employee datas
 
 - Step 32 : Used dynamic SQL to generate 2 million records per hospital, creating a large-scale dataset of 20 million records for analysis.
 
+
 <img width="1213" height="566" alt="Image" src="https://github.com/user-attachments/assets/e5e2ecc3-9004-4cea-b3a1-e0b87161fcb5" />
+
+
 
 - Step 33 : Queried the top 10 records from the Clinical Data table to review the generated dataset, as shown below.
 
+
 <img width="658" height="350" alt="Image" src="https://github.com/user-attachments/assets/114d4686-ddfc-4893-ab75-c1e32309947f" />
+
 
 - Step 34 : To perform data profiling, I reused the dynamic SQL script created for the employee dataset and modified it by replacing the employee dataset with the clinical dataset.
 
+
+<img width="318" height="115" alt="Image" src="https://github.com/user-attachments/assets/ca121f25-6c65-4782-99af-e204b827f931" />
 
 
 - Step 35 : Executed a COUNT() aggregation query to verify the total number of records for each hospital after running the data generation process. The output confirms that the complete dataset was successfully created, as shown below.
 
 
+<img width="586" height="195" alt="Image" src="https://github.com/user-attachments/assets/9b4e7f24-f92b-4c7d-ba61-dac9f9c3981c" />
+
 
 - Step 36 : Queried INFORMATION_SCHEMA.COLUMNS to examine the metadata and structure of all columns in the table.
 
 
+<img width="1220" height="322" alt="Image" src="https://github.com/user-attachments/assets/bc2f8658-1821-4e76-b6b0-5f2c3a1df67e" />
 
 
 
