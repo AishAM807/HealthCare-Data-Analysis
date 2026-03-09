@@ -221,8 +221,12 @@ The Dynamic SQL logic was initially developed and tested using an employee datas
 - Step 37 : To perform the column distribution analysis, I modified the existing SQL code that was originally written for the sample dataset by replacing it with the clinical dataset, as shown below.
 
 
-
+<img width="1196" height="525" alt="Image" src="https://github.com/user-attachments/assets/98f7c460-b1ea-4307-92d0-e652874489eb" />
 
 
 - Step 38 : As shown in the results below, each column contains different values along with their corresponding frequencies.
 
+
+<img width="214" height="475" alt="Image" src="https://github.com/user-attachments/assets/e4c8a046-5105-4258-af4b-9b973db70008" />
+<img width="232" height="521" alt="Image" src="https://github.com/user-attachments/assets/48c5c091-7d39-48a0-9719-fd528bb9560f" />
+<img width="281" height="526" alt="Image" src="https://github.com/user-attachments/assets/3384be0f-993b-4e40-b593-30e47c563d0a" />
