@@ -235,23 +235,29 @@ The Dynamic SQL logic was initially developed and tested using an employee datas
 - Step 39 : To perform the updates, a replica of the clinical dataset was created in a new table.
 
 
+<img width="485" height="253" alt="Image" src="https://github.com/user-attachments/assets/934dca08-ef48-4e0f-92bc-42af278c63e1" />
 
 
 - Step 40 : To confirm that the data was loaded correctly, I used the TOP 5 clause to retrieve the first five records from the new table.
 
 
+<img width="627" height="259" alt="Image" src="https://github.com/user-attachments/assets/c6280499-6039-4650-9203-f3c3e9d9d676" />
 
 
 - Step 41 : I used the MIN and MAX functions to find the minimum and maximum year of the admission date.
 
 
+ <img width="594" height="450" alt="Image" src="https://github.com/user-attachments/assets/cbc872bd-ec85-4e78-8d42-a0e9adcea2df" />
  
-
+ 
 - Step 42 : I implemented SQL logic to update the admission date values, setting the minimum year to 2024 and the maximum year to 2030.
+  
+
+<img width="1018" height="202" alt="Image" src="https://github.com/user-attachments/assets/4c67b58d-e553-4d3d-84fc-f825c60b4721" />
 
 
 
 - Step 43 : The results below confirm that the minimum and maximum admission years were successfully updated.
+  
 
-
-
+<img width="1059" height="514" alt="Image" src="https://github.com/user-attachments/assets/1f05399b-b4bb-43b3-a328-b9e9dc1d999f" />
