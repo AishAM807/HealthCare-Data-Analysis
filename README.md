@@ -265,6 +265,7 @@ The Dynamic SQL logic was initially developed and tested using an employee datas
 
 - Step 44: Established a SQL Server connection in Power BI Desktop and imported the healthcare dataset.
 
+<img width="699" height="556" alt="Image" src="https://github.com/user-attachments/assets/561c522e-65bb-4a86-a45e-dbddd62523cb" />
 
 
 - Step 45: While reviewing the dataset in Power Query Editor, I noticed that all columns had appropriate data types except the AdmissionDate column. I updated its data type from Date/Time to Date. 
@@ -276,11 +277,15 @@ The Dynamic SQL logic was initially developed and tested using an employee datas
 - Step 48: Enhanced the report design by adjusting the background and text colors of the filter pane and filter cards.
 
 - Step 49: Designed multiple line charts on the first report page to track key healthcare metrics such as total infections, readmissions, admissions, and deaths by Hospital ID.
+  
 
+<img width="962" height="496" alt="Image" src="https://github.com/user-attachments/assets/1127ad48-05a4-4ce0-be2d-ae16ba6af628" />
 
 
 - Step 50: Similarly, line charts were created to analyze yearly trends in total infections, deaths, admissions, and readmissions.
   
+
+<img width="962" height="496" alt="Image" src="https://github.com/user-attachments/assets/32feac82-ae17-4701-80df-0790c25fb2e9" />
 
 
 - Step 51: After completing the dashboard development, the report was published to the Power BI Service.
