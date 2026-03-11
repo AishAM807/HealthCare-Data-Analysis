@@ -290,3 +290,133 @@ The Dynamic SQL logic was initially developed and tested using an employee datas
 
 - Step 51: After completing the dashboard development, the report was published to the Power BI Service.
 
+# Insights
+
+### [1] Total Number of Infections by Hospital ID
+
+Infection counts across hospitals range between 3,996K and 4,004K.
+
+Hospital 4 recorded the highest infections: 4,004K.
+
+Hospitals 1 and 7 recorded the lowest infections: 3,996K.
+
+Most hospitals have infection counts around 4,000K, indicating a very small variation of only ~8K across hospitals.
+
+### [2] Total Number of Readmissions by Hospital ID
+
+Readmissions range between 1,145K and 1,148K.
+
+Hospital 7 has the highest readmissions: 1,148K.
+
+Hospitals 1 and 2 show the lowest readmissions: 1,145K.
+
+The variation between hospitals is approximately 3K, suggesting consistent readmission patterns.
+
+### [3] Total Number of Admissions by Hospital ID
+
+Admissions range between 2,488K and 2,490K.
+
+Hospitals 4, 6, and 10 recorded the highest admissions: 2,490K.
+
+Hospital 3 recorded the lowest admissions: 2,488K.
+
+The difference across hospitals is only about 2K, showing almost identical admission volumes.
+
+### [4] Total Number of Deaths by Hospital ID
+
+Death counts range between 1,999K and 2,001K.
+
+Hospitals 2, 6, and 10 recorded the highest deaths: 2,001K.
+
+Hospitals 1 and 9 recorded the lowest deaths: 1,999K.
+
+Mortality differences across hospitals are very minimal (about 2K variation).
+
+### [5] Overall System-Level Observations
+
+Infection variation across hospitals: 8K difference (3,996K – 4,004K).
+
+Readmission variation: 3K difference (1,145K – 1,148K).
+
+Admission variation: 2K difference (2,488K – 2,490K).
+
+Death variation: 2K difference (1,999K – 2,001K).
+
+
+## Yearly Trend Analysis (2024–2030)
+
+### [1] Total Number of Infections by Year
+
+2024: 5728K infections (highest)
+
+2025: 5716K infections
+
+2026: 5709K infections
+
+2027: 5707K infections
+
+2028: 5724K infections
+
+2029: 5711K infections
+
+2030: 5702K infections (lowest)
+
+- Infection cases show a slight downward trend overall, decreasing from 5728K in 2024 to 5702K in 2030, with a temporary increase in 2028 (5724K).
+
+### [2] Total Number of Readmissions by Year
+
+2024: 16412K readmissions (highest)
+
+2025: 16382K readmissions
+
+2026: 16390K readmissions
+
+2027: 16354K readmissions
+
+2028: 16408K readmissions
+
+2029: 16371K readmissions
+
+2030: 16354K readmissions (lowest)
+
+
+- Readmissions fluctuate slightly but remain within a narrow range of 16354K–16412K, indicating stable readmission patterns over the years.
+
+### [3] Total Number of Admissions by Year
+
+2024: 356515K admissions (highest)
+
+2025: 355765K admissions
+
+2026: 355921K admissions
+
+2027: 355172K admissions
+
+2028: 356150K admissions
+
+2029: 355589K admissions
+
+2030: 354994K admissions (lowest)
+
+
+- Hospital admissions show minor yearly variation, with the highest in 2024 (356515K) and lowest in 2030 (354994K), suggesting relatively consistent patient intake over time.
+
+### [4] Total Number of Deaths by Year
+
+2024: 2866K deaths (highest)
+
+2025: 2857K deaths
+
+2026: 2858K deaths
+
+2027: 2852K deaths (lowest)
+
+2028: 2860K deaths
+
+2029: 2857K deaths
+
+2030: 2853K deaths
+
+
+- Deaths fluctuate slightly between 2852K and 2866K, indicating stable mortality levels across the years with only 14K variation.
+
